@@ -1,8 +1,11 @@
-<section class="streamelements"></section>
+
+<section class="streamelements">
+    
+</section>
 
 <style lang="scss">
-	section.streamelements {
-		display: flex;
-		justify-content: center;
-	}
+    section.streamelements {
+        display: flex;
+        justify-content: center;
+    }
 </style>
